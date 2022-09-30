@@ -1,0 +1,20 @@
+
+.inner__container {
+    width: 73%;
+    height: 60%;
+    border: 0.3px dotted black;
+    border-radius: 20px;
+    z-index: 10;
+    position: absolute;
+    top: 14rem;
+    left: 11rem;
+    background-color: whitesmoke;
+    margin: auto;
+    text-align: center;
+}
+
+.status {
+    margin-top: 2rem;
+    font-weight: 500;
+    font-size: 1.6rem;
+}

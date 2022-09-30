@@ -1,0 +1,20 @@
+.first__rows__icons {
+    text-align: center;
+    color: white;
+}
+
+.first__row {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin: 2rem 12rem 0 12rem;
+}
+
+.first__row__text {
+    margin-top: 0.5rem;
+}
+
+.f1__icons:hover {
+    cursor: pointer;
+}
+
